@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro Cliente</string>
+    <string name="mensagem_splash">Cliente Empreendedor</string>
+    <string name="mensagem_promocional">Estamos com 30% de desconto para este produtos apenas para pedidos via nosso aplicativo. Ligue e fale diretamente com nossa equipe para descobrir a lista de produtos em promoção. Telefone exclusivo para esta oferta, ligue (99) 99999-9999.</string>
+</resources>
